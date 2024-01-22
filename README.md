@@ -6,7 +6,7 @@ This is a community chat app made using flutter as frontend and Firebase Databas
 
 ## Login Page:
 
-![](screenshots/login_page.png)
+![screenshots](login_page.png)
 
 ## Registration Page :
 
