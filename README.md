@@ -10,7 +10,7 @@ This is a community chat app made using flutter as frontend and Firebase Databas
 
 ## Registration Page :
 
-![Screenshot 2023-08-13 125410](https://github.com/SaiSuryaaK08/Chat_Community_App-Flutter/assets/124805831/5c9d7698-62b6-48e0-83a3-90ba1f6bdc47)
+![Screenshot 2023-08-13 125410](https://i.postimg.cc/R0SDRvhQ/register-page.png)
 
 ## Home Page :
 
@@ -30,4 +30,4 @@ This is a community chat app made using flutter as frontend and Firebase Databas
 
 ## Chat Page :
 
-![WhatsApp Image 2023-08-13 at 1 13 36 PM](https://github.com/SaiSuryaaK08/Chat_Community_App-Flutter/assets/124805831/d4966cf6-0a38-4fd2-ba9a-38dba4037474)
+![WhatsApp Image 2023-08-1 at 1 13 36 PM](https://github.com/SaiSuryaaK08/Chat_Community_App-Flutter/assets/124805831/d4966cf6-0a38-4fd2-ba9a-38dba4037474)
