@@ -6,7 +6,7 @@ This is a community chat app made using flutter as frontend and Firebase Databas
 
 ## Login Page:
 
-![Screenshot 2023-08-13 125337](https://github.com/SaiSuryaaK08/Chat_Community_App-Flutter/assets/124805831/4e7842db-a5a8-4c6d-a955-4db555451a0a)
+![](screenshots/login_page.png)
 
 ## Registration Page :
 
